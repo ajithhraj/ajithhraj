@@ -6,7 +6,7 @@ AI/ML Developer · Research Intern @ IISc CPDM Lab, Bengaluru
 
 **Work**
 
-**[Stratacon](https://github.com/ajithhraj)** — DRDO-commissioned wargame · IISc CPDM Lab · Unreal Engine
+**[Stratacon](https://github.com/ajithhraj)** — IISc CPDM Lab · Unreal Engine
 
 **[streetsense](https://github.com/ajithhraj/streetsense)** — AI road hazard detector for Indian roads · [Live →](https://streetsense.streamlit.app)
 
